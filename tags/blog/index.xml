@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Site de Anthony Bauchet</title>
-    <link>http://example.org/tags/blog/</link>
+    <link>https://chocotouch.github.io/Hugo-Github-pages/tags/blog/</link>
     <description>Recent content in blog on Site de Anthony Bauchet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 14 Nov 2023 14:21:48 +0100</lastBuildDate><atom:link href="http://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 14:21:48 +0100</lastBuildDate><atom:link href="https://chocotouch.github.io/Hugo-Github-pages/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ma première publication</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://chocotouch.github.io/Hugo-Github-pages/posts/my-first-post/</link>
       <pubDate>Tue, 14 Nov 2023 14:21:48 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://chocotouch.github.io/Hugo-Github-pages/posts/my-first-post/</guid>
       <description>S&amp;rsquo;embarquer dans une Aventure : Mon Premier Article Salut, compagnons d&amp;rsquo;aventure du royaume numérique ! 🌐✨
 Je suis ravi de taper ces premiers mots sur ce clavier, en créant ainsi mon tout premier article de blog. Cela ressemble à une incursion en territoire inexploré, un domaine où les mots dansent sur l&amp;rsquo;écran et les idées prennent leur envol dans l&amp;rsquo;immensité d&amp;rsquo;Internet.
 Alors que je pose ces lignes, je ne peux m&amp;rsquo;empêcher de réfléchir au voyage excitant qui nous attend.</description>
