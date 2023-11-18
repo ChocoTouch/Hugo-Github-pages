@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Site de Anthony Bauchet</title>
-    <link>https://chocotouch.github.io/posts/</link>
+    <link>https://chocotouch.github.io/gh-hugo-ghpages/posts/</link>
     <description>Recent content in Posts on Site de Anthony Bauchet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 18 Nov 2023 10:23:20 +0100</lastBuildDate><atom:link href="https://chocotouch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 10:23:20 +0100</lastBuildDate><atom:link href="https://chocotouch.github.io/gh-hugo-ghpages/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github, Hugo &amp; Github pages</title>
-      <link>https://chocotouch.github.io/posts/gh-hugo-ghpages/</link>
+      <link>https://chocotouch.github.io/gh-hugo-ghpages/posts/gh-hugo-ghpages/</link>
       <pubDate>Sat, 18 Nov 2023 10:23:20 +0100</pubDate>
       
-      <guid>https://chocotouch.github.io/posts/gh-hugo-ghpages/</guid>
+      <guid>https://chocotouch.github.io/gh-hugo-ghpages/posts/gh-hugo-ghpages/</guid>
       <description>Maîtriser GitHub, Hugo et GitHub Pages : Un Résumé Rapide Bienvenue, chers lecteurs ! Aujourd&amp;rsquo;hui, plongeons dans l&amp;rsquo;univers passionnant de GitHub, Hugo et GitHub Pages. Que vous soyez un développeur chevronné ou simplement curieux, ce rapide résumé vous accompagnera dans la découverte de ces outils essentiels.
 GitHub : L&amp;rsquo;Épicentre de la Collaboration GitHub est bien plus qu&amp;rsquo;un simple espace de stockage de code. C&amp;rsquo;est une plateforme collaborative où les projets prennent vie.</description>
     </item>
     
     <item>
       <title>Ma première publication</title>
-      <link>https://chocotouch.github.io/posts/my-first-post/</link>
+      <link>https://chocotouch.github.io/gh-hugo-ghpages/posts/my-first-post/</link>
       <pubDate>Tue, 14 Nov 2023 14:21:48 +0100</pubDate>
       
-      <guid>https://chocotouch.github.io/posts/my-first-post/</guid>
+      <guid>https://chocotouch.github.io/gh-hugo-ghpages/posts/my-first-post/</guid>
       <description>S&amp;rsquo;embarquer dans une Aventure : Mon Premier Article Salut, compagnons d&amp;rsquo;aventure du royaume numérique ! 🌐✨
 Je suis ravi de taper ces premiers mots sur ce clavier, en créant ainsi mon tout premier article de blog. Cela ressemble à une incursion en territoire inexploré, un domaine où les mots dansent sur l&amp;rsquo;écran et les idées prennent leur envol dans l&amp;rsquo;immensité d&amp;rsquo;Internet.
 Alors que je pose ces lignes, je ne peux m&amp;rsquo;empêcher de réfléchir au voyage excitant qui nous attend.</description>
